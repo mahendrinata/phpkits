@@ -1,0 +1,18 @@
+Requirements:
+----------------------------
+
+PHP 5.2.11
+SimpleTest Framework (http://www.simpletest.org/)
+Doctrine ORM (http://www.doctrine-project.com/)
+jQuery (http://www.jquery.org)
+
+
+Running Framework Unit Test
+-----------------------------
+
+Browse the following on url: 
+
+http://localhost/phpkits/test/all_tests.php
+
+
+
